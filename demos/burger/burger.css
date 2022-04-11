@@ -245,7 +245,7 @@ p.price-desc {
 
 	.gmap::before { display: none; }
 
-	.price-img { height: 400px; }
+	.price-img { height: auto; }
 
 
 	#header.dark.transparent-header {
