@@ -5704,6 +5704,7 @@ body:not(.stretched) .slider-parallax .slider-inner { left: auto; }
 		display: flex;
 		flex-grow: 1;
 		align-items: center;
+		margin-bottom: 100px;
 	}
 
 }
